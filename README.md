@@ -19,18 +19,18 @@
 - click send
 
 EXAMPLE MESSAGE:
-records added: 1000
-Files choosen : 2000 (should be twice the records number if you had for each collectible a previewImage + a locked file)
-previewImage: 1000
-files: 1000
-Adding 1000 NFTs, please wait...
-WHEN IT'S DONE: "NFT DAta Saved in Session"
+- records added: 1000
+- Files choosen : 2000 (should be twice the records number if you had for each collectible a previewImage + a locked file)
+- previewImage: 1000
+- files: 1000
+- Adding 1000 NFTs, please wait...
+- WHEN IT'S DONE: "NFT DAta Saved in Session"
 
 NOTES
-group all collectibles in the same session or you'll pay as many transaction fees as existing sessions.
-if there are missing image files, you'll see a message explain ing the bulk upload could fail.
-If something goes wrong while uploading collectibles, there is no warning message to explain why. 
-Better to upload at night in the US because CARGO server isn't stable, or maybe the team is working on changes without notice. At first, it stopped 5 times. While at the right moment, no issue to upload 10k at once.
-No upload status (uploading collectible 1 of 1000) but you can check the result on CARGO frontend if you upload lots of collectibles at once. 
-It took me 6 hours to upload 10k collectibles with 2Go images.
-When it's done, you'll have to click on SAVE AND CONTINUE button on frontent (it may take 2 to 3 hours for 10k collectibles) then you will pay the transaction to mint all NFTs at once
+- group all collectibles in the same session or you'll pay as many transaction fees as existing sessions.
+- if there are missing image files, you'll see a message explain ing the bulk upload could fail.
+- If something goes wrong while uploading collectibles, there is no warning message to explain why. 
+- Better to upload at night in the US because CARGO server isn't stable, or maybe the team is working on changes without notice. At first, it stopped 5 times. While - at the right moment, no issue to upload 10k at once.
+- No upload status (uploading collectible 1 of 1000) but you can check the result on CARGO frontend if you upload lots of collectibles at once. 
+- It took me 6 hours to upload 10k collectibles with 2Go images.
+- When it's done, you'll have to click on SAVE AND CONTINUE button on frontent (it may take 2 to 3 hours for 10k collectibles) then you will pay the transaction to mint all NFTs at once
