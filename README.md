@@ -1,5 +1,10 @@
 # nft-cargo-bulk-upload
-3 php pages to import everything at once:
+
+https://cargo.build/
+Smart contract: ERC-721 + EIP 2309 (recursive patch)
+
+GOAL
+A solution to import everything at once
 
 1/ getSession.php: 
 - connect to your ETH address with Metamask
