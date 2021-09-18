@@ -11,6 +11,7 @@
 - run the 2nd converter for custom metadat and to uglify the code
 
 3/ saveInSessionBulk.php
+- select "Developement" or "production" environment 
 - you should see a default message saying you're logged if your Metamask connexion is ok
 - choose all images files you need from the same folder (previewImage + locked files) to display file list. check the ending to be sure you selected all files
 - paste again the session ID
