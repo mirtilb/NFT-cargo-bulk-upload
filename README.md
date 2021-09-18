@@ -1,7 +1,9 @@
 # nft-cargo-bulk-upload
 
-https://cargo.build/
+CARGO BUILD
 Smart contract: ERC-721 + EIP 2309 (recursive patch)
+https://cargo.build/
+
 
 GOAL
 A solution to import everything at once
