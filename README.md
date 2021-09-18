@@ -1,4 +1,4 @@
-# nft-cargo-bulk-upload
+# NFT-cargo-bulk-upload
 
 CARGO BUILD<br>
 Smart contract: ERC-721 + EIP 2309 (recursive patch)<br>
