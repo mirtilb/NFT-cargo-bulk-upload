@@ -1,14 +1,18 @@
 # NFT-cargo-bulk-upload
 
 PROJECT: NO MORE TV (NMTV)<br>
+https://opensea.io/collection/nomoretv<br>
+https://opensea.io/collection/nomoretv-alpha<br><br>
+
 CARGO BUILD<br>
 Smart contract: ERC-721 + EIP 2309 (recursive patch)<br>
 https://cargo.build/<br><br>
 
-DEV: georgerockjohn | https://www.fiverr.com/georgerockjohn<br>
+DEV<br>
+georgerockjohn | https://www.fiverr.com/georgerockjohn<br>
 
 
-GOAL
+GOAL<br>
 A solution to import everything at once
 
 1/ getSession.php: 
