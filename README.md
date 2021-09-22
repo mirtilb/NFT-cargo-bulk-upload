@@ -1,8 +1,11 @@
 # NFT-cargo-bulk-upload
 
+PROJECT: NO MORE TV (NMTV)<br>
 CARGO BUILD<br>
 Smart contract: ERC-721 + EIP 2309 (recursive patch)<br>
-https://cargo.build/
+https://cargo.build/<br><br>
+
+DEV: georgerockjohn | https://www.fiverr.com/georgerockjohn<br>
 
 
 GOAL
