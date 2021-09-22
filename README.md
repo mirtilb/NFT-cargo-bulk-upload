@@ -1,4 +1,6 @@
-# NFT-cargo-bulk-upload
+# NFT-cargo-bulk-upload<br>
+A solution to upload everything at once <br>
+Import data from your CSV and your imaage folder<br><br>
 
 PROJECT: NO MORE TV (NMTV)<br>
 https://opensea.io/collection/nomoretv<br>
@@ -9,11 +11,7 @@ Smart contract: ERC-721 + EIP 2309 (recursive patch)<br>
 https://cargo.build/<br><br>
 
 DEV<br>
-georgerockjohn | https://www.fiverr.com/georgerockjohn<br>
-
-
-GOAL<br>
-A solution to import everything at once
+georgerockjohn | https://www.fiverr.com/georgerockjohn<br><br>
 
 1/ getSession.php: 
 - connect to your ETH address with Metamask
